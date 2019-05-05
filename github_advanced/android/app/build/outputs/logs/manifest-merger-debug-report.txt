@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-splash-screen] D:\RNProjectioins\github_advanced\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-vector-icons] D:\RNProjectioins\github_advanced\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] D:\RNProjectioins\github_advanced\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-75:12
+MERGED from [com.facebook.react:react-native:0.58.0-rc.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\react-native-0.58.0-rc.1.aar\17d6e2e96de49a19d4751e0c9aa2379c\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a6e3d17bd4b770eb1ecc17b42ff3f2ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\3b99c02a7903df16528df739598a9f3d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c41fc4405329b92fb24d27d8251b5cfa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\420be1ccc33c3764f34e28e2387c0bf6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b04a510b06ca8fa0a7e28cf5d2ca24f2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9b67310b4bea6f0b705ddac085315524\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\646c7590fa55e4e5515c02a08e678d02\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\31118ea4758c9b62c1986d37a3c3be2a\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\d90af67106843da4384d39c4dbb747b0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2bdffcc688bde0d91c5ef32a088faa70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b6cb74685e75bbf5dc9e88fa18a642c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bc16cc256de104be3122800af797aaf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5430ce3931bcd021b877d9dfc7fac395\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\18ab0af10b8b79ee7293011348c79b75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\86f1d7a7432144ae0f81cc4c281f5f19\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4c1a230a214565a2781b9276bc1de46a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\463dce0215125dc419ca102384fa8495\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f6dff9f4215e8046492de7792eb7c2cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3b23db6c1ecf48d32735a7b25a5286a4\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:2:5-28
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+MERGED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-67
+MERGED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.0-rc.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\react-native-0.58.0-rc.1.aar\17d6e2e96de49a19d4751e0c9aa2379c\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.0-rc.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\react-native-0.58.0-rc.1.aar\17d6e2e96de49a19d4751e0c9aa2379c\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-splash-screen] D:\RNProjectioins\github_advanced\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] D:\RNProjectioins\github_advanced\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-15:19
+MERGED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-73:19
+MERGED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-73:19
+MERGED from [com.facebook.react:react-native:0.58.0-rc.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\react-native-0.58.0-rc.1.aar\17d6e2e96de49a19d4751e0c9aa2379c\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.0-rc.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\react-native-0.58.0-rc.1.aar\17d6e2e96de49a19d4751e0c9aa2379c\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\646c7590fa55e4e5515c02a08e678d02\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\646c7590fa55e4e5515c02a08e678d02\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\31118ea4758c9b62c1986d37a3c3be2a\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\31118ea4758c9b62c1986d37a3c3be2a\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.github_rn.MainActivity
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:23:7-84
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-86
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:23:17-81
+meta-data#android.max_aspect
+ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:25:9-27:35
+	android:value
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:27:13-32
+	android:name
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:26:13-46
+uses-sdk
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\RNProjectioins\github_advanced\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\RNProjectioins\github_advanced\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] D:\RNProjectioins\github_advanced\node_modules\react-native-code-push\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\RNProjectioins\github_advanced\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\RNProjectioins\github_advanced\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\RNProjectioins\github_advanced\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\RNProjectioins\github_advanced\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.0-rc.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\react-native-0.58.0-rc.1.aar\17d6e2e96de49a19d4751e0c9aa2379c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.0-rc.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\react-native-0.58.0-rc.1.aar\17d6e2e96de49a19d4751e0c9aa2379c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a6e3d17bd4b770eb1ecc17b42ff3f2ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a6e3d17bd4b770eb1ecc17b42ff3f2ca\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\3b99c02a7903df16528df739598a9f3d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\3b99c02a7903df16528df739598a9f3d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c41fc4405329b92fb24d27d8251b5cfa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c41fc4405329b92fb24d27d8251b5cfa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\420be1ccc33c3764f34e28e2387c0bf6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\420be1ccc33c3764f34e28e2387c0bf6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b04a510b06ca8fa0a7e28cf5d2ca24f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b04a510b06ca8fa0a7e28cf5d2ca24f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9b67310b4bea6f0b705ddac085315524\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9b67310b4bea6f0b705ddac085315524\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\646c7590fa55e4e5515c02a08e678d02\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\646c7590fa55e4e5515c02a08e678d02\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\d90af67106843da4384d39c4dbb747b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\d90af67106843da4384d39c4dbb747b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2bdffcc688bde0d91c5ef32a088faa70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2bdffcc688bde0d91c5ef32a088faa70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b6cb74685e75bbf5dc9e88fa18a642c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b6cb74685e75bbf5dc9e88fa18a642c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bc16cc256de104be3122800af797aaf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bc16cc256de104be3122800af797aaf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5430ce3931bcd021b877d9dfc7fac395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5430ce3931bcd021b877d9dfc7fac395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\18ab0af10b8b79ee7293011348c79b75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\18ab0af10b8b79ee7293011348c79b75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\86f1d7a7432144ae0f81cc4c281f5f19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\86f1d7a7432144ae0f81cc4c281f5f19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4c1a230a214565a2781b9276bc1de46a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4c1a230a214565a2781b9276bc1de46a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\463dce0215125dc419ca102384fa8495\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\463dce0215125dc419ca102384fa8495\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f6dff9f4215e8046492de7792eb7c2cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f6dff9f4215e8046492de7792eb7c2cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3b23db6c1ecf48d32735a7b25a5286a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lucd\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3b23db6c1ecf48d32735a7b25a5286a4\AndroidManifest.xml:20:5-44
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] D:\RNProjectioins\github_advanced\node_modules\react-native-webview\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:22-72
+activity#org.devio.trackshare.wxapi.WXEntryActivity
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:9-24:75
+	android:screenOrientation
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:13-49
+	android:exported
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:13-36
+	android:configChanges
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:13-74
+	android:theme
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:13-72
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:13-70
+activity#com.tencent.tauth.AuthActivity
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:9-38:20
+	android:launchMode
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-44
+	android:noHistory
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent1105745872
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:13-37:29
+action#android.intent.action.VIEW
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:17-78
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:27-75
+data
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:17-60
+	android:scheme
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:9-43:75
+	android:screenOrientation
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:13-49
+	android:configChanges
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:13-74
+	android:theme
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:13-69
+activity#com.umeng.socialize.media.WBShareCallBackActivity
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:9-50:20
+	android:exported
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:48:13-37
+	android:configChanges
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:13-63
+	android:theme
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:13-72
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:13-77
+activity#com.sina.weibo.sdk.web.WeiboSdkWebActivity
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:9-56:20
+	android:windowSoftInputMode
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:55:13-55
+	android:exported
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:54:13-37
+	android:configChanges
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:13-63
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:13-70
+activity#com.sina.weibo.sdk.share.WbShareTransActivity
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:57:9-66:20
+	android:launchMode
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:59:13-44
+	android:theme
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:60:13-83
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:58:13-73
+intent-filter#action:name:com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:61:13-65:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:62:17-92
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:62:25-89
+activity#com.umeng.socialize.editorpage.ShareActivity
+ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:69:9-72:54
+	android:excludeFromRecents
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:71:13-46
+	android:theme
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:72:13-51
+	android:name
+		ADDED from [:trackshare] D:\RNProjectioins\github_advanced\android\trackshare\build\intermediates\manifests\full\debug\AndroidManifest.xml:70:13-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\RNProjectioins\github_advanced\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
